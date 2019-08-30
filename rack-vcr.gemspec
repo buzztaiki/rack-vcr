@@ -26,6 +26,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec"
 
   spec.add_development_dependency "sinatra", "~> 1.4"
-  spec.add_development_dependency "rack-test", "~> 0.6"
-  spec.add_development_dependency "webmock", "~> 1.21"
+  spec.add_development_dependency "rack-test", "~> 1.1.0"
+  spec.add_development_dependency "webmock", "~> 3.7.0"
 end
